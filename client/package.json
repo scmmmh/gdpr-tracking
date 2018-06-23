@@ -1,0 +1,8 @@
+{
+  "name": "gdpr-tracking-client",
+  "version": "1.0.0",
+  "description": "A jQuery pluggin for GDPR-compliant interaction tracking",
+  "main": "index.js",
+  "author": "Mark Hall <mark.hall@work.room3b.eu>",
+  "license": "MIT"
+}
